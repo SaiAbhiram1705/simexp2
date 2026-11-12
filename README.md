@@ -20,4 +20,4 @@ This project is developed to manage student information.
 Sai Abhiram
 
 # Student Management System
-This project is developed using Java.
+this project is developed using java and python
